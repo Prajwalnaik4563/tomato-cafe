@@ -81,7 +81,7 @@ npm run dev
 ```
 
 4️⃣ Open in browser
-http://localhost:5173/
+https://tomato-cafe-git-main-prajwalnaik0522-5869s-projects.vercel.app?_vercel_share=AhJB9knlrZdaCE0bgTKjeNWCzqrgBnTN
 
 📸 Demo
 ## 📸 Demo Screenshots
